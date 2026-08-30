@@ -1,8 +1,9 @@
-# unibs_mldm_diabetes
+# Diabetes 130-US Hospitals for Years 1999-2008s
 
-Project for the Machine Learning &amp; Data Mining course, held at Università degli Studi di Brescia (Italy).
+Project for the "Machine Learning &amp; Data Mining" course, held at Università degli Studi di Brescia (Italy).
 
 All training data has been taken from the [Diabetes 130-US Hospitals for Years 1999-2008](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008) UCI dataset.
+The full report, together with the conducted analyses and the tested machine learning algorithms, can be read [here](https://drive.google.com/file/d/1JwiImuWzWrJeUoXzhKUwosSeXtPrqtU7/view?usp=sharing).
 
 ## Environment Setup
 
